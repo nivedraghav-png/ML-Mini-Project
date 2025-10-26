@@ -20,10 +20,15 @@ The goal of this project is to perform:
 ## 🧩 Project Structure
 
 ├── ML_MiniProject.ipynb # Jupyter notebook with EDA, modeling, and tuning
+
 ├── app.ipynb # Flask app for model deployment
+
 ├── requirements.txt # Required dependencies
+
 ├── static/ # CSS and JS files for frontend
+
 ├── templates/ # HTML files for UI
+
 └── README.md # Project documentation
 
 
@@ -133,9 +138,13 @@ Once the app is running, you can:
 👤 Author
 
 Nived Kunhi Puthiyaveettil
+
 📍 Berlin, Germany
+
 🎓 MBA in Big Data Management
+
 💼 Aspiring Data Scientist
+
 📧 nivedraghav@gmail.com
 
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nived-kunhi-puthiyaveettil/)
